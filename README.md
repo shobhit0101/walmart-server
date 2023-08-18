@@ -72,7 +72,7 @@ To run this project, you will need to add the following environment variables to
 
 ## To run on local system :
 
-* GIT clone the repo from : ```https://github.com/SH7072/walmart-server/```
+* GIT clone the repo from : ```https://github.com/shobhit0101/walmart-server/```
 
 * To install the dependencies run : ```npm install```
 
